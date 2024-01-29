@@ -89,7 +89,7 @@ div#login-right::before {
 
   <main id="main" class=" bg-dark">
   		<div id="login-left">
-  			<img src="assets/img/img.jpg" alt="..." width="100%" height="90%">
+  			<img src="assets/img/loginimg.jpg" alt="..." width="100%" height="90%">
   		</div>
 <div class="row">
   		<div id="login-right">
